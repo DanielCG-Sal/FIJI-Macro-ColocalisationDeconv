@@ -6,7 +6,7 @@ This macro automates the analysis of colocalisation between two fluorescent mark
 
 ---
 
-## 🧩 Requirements
+## Requirements
 
 - [FIJI / ImageJ](https://fiji.sc) (with the Deconvolution plugin installed)
 - Multichannel fluorescence images (compatible with FIJI)
@@ -14,13 +14,13 @@ This macro automates the analysis of colocalisation between two fluorescent mark
 
 ---
 
-## 📁 Files
+## Files
 
 - `ColocalizationDeconv.ijm`: The main macro script.
 
 ---
 
-## 🚀 Usage
+## Usage
 
 1. **Open** the image to be analysed in FIJI. Select the appropriate Z-plane and adjust intensity/contrast as needed.
 2. **Outline** the cell or region of interest and add the selection to the ROI Manager.
@@ -41,24 +41,26 @@ This macro automates the analysis of colocalisation between two fluorescent mark
 
 ---
 
-## 🧪 Output
+## Output
 
 The macro produces a measurement table in pixel units. Since the generated duplicates are not spatially calibrated, values are best interpreted as relative proportions. For quantitative comparisons across samples, consider normalising the values.
 
 ---
 
-## 📄 Licence
-
-The macro is released under the GNU General Public License v3.0. See gpl-3.0.txt for details.
-
----
-
-## 👥 Author
+## Author
 
 Developed by Daniela María Chávez Bulnes, Jorge Valero and Daniel Cañada García.  
 
 ---
 
-## 📖 Citation
+## Licence
 
-TBD
+The macro is released under the GNU General Public License v3.0. See gpl-3.0.txt for details.
+
+---
+
+## Citation
+
+If you use this workflow or any of the macros in your work, please cite:
+
+> TBD
