@@ -49,7 +49,7 @@ The macro produces a measurement table in pixel units. Since the generated dupli
 
 ## 📄 Licence
 
-Distributed under the MIT Licence. See the [LICENSE](./LICENSE) file for details.
+The macro is released under the GNU General Public License v3.0. See gpl-3.0.txt for details.
 
 ---
 
