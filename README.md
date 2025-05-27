@@ -55,7 +55,7 @@ The macro is released under the GNU General Public License v3.0. See gpl-3.0.txt
 
 ## 👥 Author
 
-Developed by Daniela María Chávez Bulnes, Daniel Cañada García and Jorge Valero  
+Developed by Daniela María Chávez Bulnes, Jorge Valero and Daniel Cañada García.  
 
 ---
 
